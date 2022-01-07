@@ -12,3 +12,4 @@ Provided with the dataframe: 'data.csv'. It contains 55,000 observations. The fi
 * Selecting the proper classifier/machine learning model
 * Using pandas for machine learning classification
 * Estimating accuracy of the classifier I built
+* How to adjust the model for machine learning
