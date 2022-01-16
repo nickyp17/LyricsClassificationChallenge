@@ -13,3 +13,8 @@ Provided with the dataframe: 'data.csv'. It contains 55,000 observations. The fi
 * Using pandas for machine learning classification
 * Estimating accuracy of the classifier I built
 * How to adjust the model for machine learning
+* Gained a better understanding of different models for distribution
+
+# ea.csv 
+
+The 'ea.csv' file includes the estimated accuracy of the model used for the assignment. 
